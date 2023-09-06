@@ -71,7 +71,7 @@ proy_poblacion_pba <- readxl::read_xlsx("fuentes/proyecciones_provincia_sexo_eda
 # Datos correspondientes a los egresos hospitalarios del sistema de salud provincial
 # "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/af100ed1-8030-4543-9582-7233f5f68548/download/egresos_2016-2020.rar"
 
-egresos_hsp <- read.csv("G:/Mi unidad/MGAIE/18.Visualizacion salud/mgaie_salud/Planificacion TP final/fuentes/egresos_2016-2020.csv", sep=";")
+#egresos_hsp <- read.csv("G:/Mi unidad/MGAIE/18.Visualizacion salud/mgaie_salud/Planificacion TP final/fuentes/egresos_2016-2020.csv", sep=";")
 
 camas_agudas_cronicas_2014_17 <- read.csv("https://catalogo.datos.gba.gob.ar/dataset/338be580-5f9c-443a-aeb5-86c533ae5bfe/resource/6f3f60d3-699d-43fd-b2c4-09072c97c162/download/camas-agudas-cronicas.csv")
 

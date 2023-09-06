@@ -1,0 +1,156 @@
+---
+title: "Propuesta borrador TP Final"
+subtitle: "MGAIE - UNTREF - Visualiuzación de datos de Salud con Shinny"
+author: "Betsy Cohen"
+date: "2023-09-06"
+output:
+  rmdformats::downcute:
+    highlight: kate
+    self_contained: true
+    thumbnails: true
+    gallery: true
+    df_print: kable
+pkgdown:
+  as_is: true  
+---
+
+```{r, setup, include=FALSE}
+library(tidyverse)
+library(janitor)
+library(readxl)
+library('DT')
+library(sf)
+library(ReDaMoR)
+
+data_dict <- function(df, desc = rep("", ncol(df))) {
+  data.frame(
+    Nombre = names(df),
+    Tipo = sapply(df, class),
+    Descripción = desc,
+    #Categorias = sapply(df, function(x) ifelse(is.factor(x), paste(levels(x), collapse = ", "), NA)),
+    check.names = FALSE,
+    row.names = NULL
+  )
+}
+
+```
+
+
+## Propuesta general
+
+Elaborar un tablero que visualice la información de datos abiertos en salud de la provincia de Buenos Aires acerca de la ifraestructura pública disponible y su rendimiento.
+
+
+Establecimientos de salud públicos
+
+## Datasets dispnibles
+
+```{r, warning=FALSE}
+
+### Datos con ref unid. analisis establecimiento
+
+#Establecimientos de salud públicos 2022.
+establecimientos<- read.csv("https://catalogo.datos.gba.gob.ar/dataset/91743f68-bc82-4475-baca-7d5d6908eee8/resource/c2d51824-c61d-4374-a014-cca5b76b082a/download/establecimientos-salud-publicos.csv", sep = ";") 
+
+establecimientos_sh <-  read_sf("fuentes/establecimientos_salud_publicos/Establecimientos_salud_publicos_alta_al20220721.shp")
+
+rendimientos_establecimientos_2005_2022 <- read.csv("https://catalogo.datos.gba.gob.ar/dataset/219d6b32-2e34-40cb-913d-b05c47cab75f/resource/8c3130cb-61ad-4014-b829-503b214ba3c0/download/rendimientos-hospitalarios_2005-2022.csv")
+
+
+# proyecciones poblacionales para provincia de buenos aires
+proy_poblacion_pba <- readxl::read_xlsx("fuentes/proyecciones_provincia_sexo_edad.xlsx") |> 
+  filter(juri_nombre == 'BUENOS AIRES') 
+
+
+
+### Datos con Agregación geográfica pero sin establecimiento --------------------------------------------------
+
+#Estos dataset podrían mostrar algunas estadísticas por regiones sanitarias (funcionaría como clave elemento común a todos)
+
+# Egresos hospitalarios
+# Datos correspondientes a los egresos hospitalarios del sistema de salud provincial
+# "https://catalogo.datos.gba.gob.ar/dataset/baf07a7a-8cd2-47ad-bae0-52c6f3b45bb7/resource/af100ed1-8030-4543-9582-7233f5f68548/download/egresos_2016-2020.rar"
+
+egresos_hsp <- read.csv("G:/Mi unidad/MGAIE/18.Visualizacion salud/mgaie_salud/Planificacion TP final/fuentes/egresos_2016-2020.csv", sep=";")
+
+camas_agudas_cronicas_2014_17 <- read.csv("https://catalogo.datos.gba.gob.ar/dataset/338be580-5f9c-443a-aeb5-86c533ae5bfe/resource/6f3f60d3-699d-43fd-b2c4-09072c97c162/download/camas-agudas-cronicas.csv")
+
+camas_agudas_cronicas_2018_22 <- read.csv("https://catalogo.datos.gba.gob.ar/dataset/338be580-5f9c-443a-aeb5-86c533ae5bfe/resource/57f969ad-d252-4f46-a429-a9414533a3db/download/camas-agudas-cronicas-establecimiento_2018-2022.xlsx")
+
+camas_criticas_2009_2017 <- read.csv("https://catalogo.datos.gba.gob.ar/dataset/b60257fb-a914-4a27-a54c-6f2a91b3154d/resource/72b62bd4-aef0-4a05-a67d-c4b92d07e660/download/camas-criticas.csv")
+
+camas_criticas_2009_2017 <- read.csv("https://catalogo.datos.gba.gob.ar/dataset/b60257fb-a914-4a27-a54c-6f2a91b3154d/resource/72b62bd4-aef0-4a05-a67d-c4b92d07e660/download/camas-criticas.csv")
+
+
+
+### Otros mapeables de la infraestructura
+
+oficinas_ioma <- read.csv("https://catalogo.datos.gba.gob.ar/dataset/3fffcf9e-e8df-49a3-b8cd-a4cce2425d50/resource/95b5670b-df27-4a8b-a3af-1ed8f64cf056/download/oficinas-de-atencion-ioma.csv") 
+
+
+
+```
+
+## Diseño general
+
+La app debería tener tres solapas:
+
+**1 estadisticas de poblacionales de población del establecimiento:**
+
+layout: fluidRow
+
+-Panel central con mapa 
+-cajas en la parte superior (info box) con indicadores:
+
+- población de influencia = sumatoria de la población del municipio en el cual se encuentra situado el establecimiento
+- tasa de natalidad de la población
+- tasa de mortalidad de la población
+- n° de region
+- camas agudas de la region sanitaria en 2022
+- camas críticas de la region sanitaria en 2022
+
+**2 estadisticas de rendimiento de establecimiento:**
+
+¿Unidad de resumen por regiuón sanitaria es útil?
+
+layout: sidebarLayout
+
+En el costado se tienen que mostrar los filtros con los siguientes niveles:
+
+- Partido (selector múltiple)
+- Región sanitaria (nrs)
+- Tipo de financiamiento (tes)
+- Modalidad de atención (mod)
+
+Panel central graficos  y tablas resumen de evolución de:
+- consultas médicas
+- interconsultas
+- egresos
+- promedio de camas disponinles
+- dias de camas disponibles
+- tasa de mortalidad hospitalaria
+
+Algun indicador (regresión lineal) de probabilidad de cama disponible?
+
+**3 Documentación:**
+
+layout: fluidRow
+Indica las definiciones y fuentes tratadas.
+
+## ETL
+
+### Tabla rendimientos
+
+Los id de establecimientos de la tabla de rendimientos tienen tiene muchos NA
+
+
+```{r}
+
+#el left join por id parece funcionar ok pero hay mucho NA
+# rendimientos_establecimientos_2005_2022 |> 
+#   mutate(id = as.numeric(establecimiento_id)) |> 
+#   left_join(establecimientos, by = "id") |> 
+  
+  
+```
+

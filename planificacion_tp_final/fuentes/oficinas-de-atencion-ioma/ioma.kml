@@ -1,0 +1,2530 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="oficinas_de_atencion_ioma__1_" id="oficinas_de_atencion_ioma__1_">
+	<SimpleField name="Dependenci" type="string"></SimpleField>
+	<SimpleField name="Organismo" type="string"></SimpleField>
+	<SimpleField name="Nombre" type="string"></SimpleField>
+	<SimpleField name="Dirección" type="string"></SimpleField>
+	<SimpleField name="Partido" type="string"></SimpleField>
+	<SimpleField name="Teléfono" type="string"></SimpleField>
+	<SimpleField name="Horario" type="string"></SimpleField>
+	<SimpleField name="Contacto" type="string"></SimpleField>
+</Schema>
+<Folder><name>oficinas_de_atencion_ioma__1_</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN CAPITAL FEDERAL</SimpleData>
+		<SimpleData name="Dirección">Reconquista 3° Piso 46</SimpleData>
+		<SimpleData name="Partido">C.A.B.A</SimpleData>
+		<SimpleData name="Teléfono">(011) 4342-7248 (Conmutador)/(011) 4342-7446 Informes.</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_capitalfederal@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.3724722222222,-34.607,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN VEINTICINCO DE MAYO</SimpleData>
+		<SimpleData name="Dirección">calle 10 e/ 26 y 27 1155</SimpleData>
+		<SimpleData name="Partido">25 de Mayo</SimpleData>
+		<SimpleData name="Teléfono">(02345) 463671</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto"> deleg25demayo@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.1724722222222,-35.434,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN NORBERTO DE LA RIESTRA</SimpleData>
+		<SimpleData name="Dirección">Sargento Cabral 698</SimpleData>
+		<SimpleData name="Partido">25 de Mayo</SimpleData>
+		<SimpleData name="Teléfono">(02343) 440112</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_delariestra@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.7742222222222,-35.2738888888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN NUEVE DE JULIO</SimpleData>
+		<SimpleData name="Dirección">Santa Fe 960</SimpleData>
+		<SimpleData name="Partido">9 de Julio</SimpleData>
+		<SimpleData name="Teléfono">(02317) 430263</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_9dejulio@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.8826388888889,-35.44275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CARHUE</SimpleData>
+		<SimpleData name="Dirección">Rivadavia 1151</SimpleData>
+		<SimpleData name="Partido">Adolfo Alsina</SimpleData>
+		<SimpleData name="Teléfono">(02936) 43-2120</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_carhue@ioma.gba.gov.ar / Para afiliaciones: iomacarhue@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.761342084902,-37.1807237811125,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GONZALES CHAVES</SimpleData>
+		<SimpleData name="Dirección">B. Mitre 312</SimpleData>
+		<SimpleData name="Partido">Adolfo Gonzales Chaves</SimpleData>
+		<SimpleData name="Teléfono">(02983) 481292</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.10125,-38.0346388888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ALBERTI</SimpleData>
+		<SimpleData name="Dirección">Vaccarezza 63</SimpleData>
+		<SimpleData name="Partido">Alberti</SimpleData>
+		<SimpleData name="Teléfono">(02346) 472023</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">delegalberti@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.2786175314717,-35.033167910926,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ADROGUE</SimpleData>
+		<SimpleData name="Dirección">Bynon 1535</SimpleData>
+		<SimpleData name="Partido">Almirante Brown</SimpleData>
+		<SimpleData name="Teléfono">(011) 42941560</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-altebrown@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.3877637,-34.797025,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ARRECIFES</SimpleData>
+		<SimpleData name="Dirección">Av. Dr. Carlos Merlassino 782</SimpleData>
+		<SimpleData name="Partido">Arrecifes</SimpleData>
+		<SimpleData name="Teléfono">(02478) 454282</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_arrecifes@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.1056762563871,-34.0688751220478,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN AVELLANEDA</SimpleData>
+		<SimpleData name="Dirección">Lavalle 72</SimpleData>
+		<SimpleData name="Partido">Avellaneda</SimpleData>
+		<SimpleData name="Teléfono">(011) 42016467 - (011) 42018677</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">afiliacionesiomaavellaneda@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.3662977,-34.6631451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN AYACUCHO</SimpleData>
+		<SimpleData name="Dirección">9 de julio (C. civico) 755</SimpleData>
+		<SimpleData name="Partido">Ayacucho</SimpleData>
+		<SimpleData name="Teléfono">(02296) 453085</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_ayacucho@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.4845833333333,-37.1548888888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN AZUL</SimpleData>
+		<SimpleData name="Dirección">Necochea 626</SimpleData>
+		<SimpleData name="Partido">Azul</SimpleData>
+		<SimpleData name="Teléfono">(02281) 425876</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_azul@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.8596110020161,-36.7802735316982,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CACHARI</SimpleData>
+		<SimpleData name="Dirección">Belgrano 1563</SimpleData>
+		<SimpleData name="Partido">Azul</SimpleData>
+		<SimpleData name="Teléfono">(02281) 481008</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_cachari@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.5048488686041,-36.3770459478949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CHILLAR</SimpleData>
+		<SimpleData name="Dirección">DE PAULA 1230</SimpleData>
+		<SimpleData name="Partido">Azul</SimpleData>
+		<SimpleData name="Teléfono">(02281) 49-7056</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_chillar@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.9880900416107,-37.3124124823704,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN BAHIA BLANCA</SimpleData>
+		<SimpleData name="Dirección">Zelarrayán 640</SimpleData>
+		<SimpleData name="Partido">Bahía Blanca</SimpleData>
+		<SimpleData name="Teléfono">Punto a Punto 202 y 203 (0291) 453-8196 | 452-6480 |453-5122 | 455-5400 |454-0008</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_bahiablanca@ioma.gba.gov.ar regionbahiablanca_afil@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.2717697541405,-38.7115408941939,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL CERRI</SimpleData>
+		<SimpleData name="Dirección">Juan José Paso 535</SimpleData>
+		<SimpleData name="Partido">Bahía Blanca</SimpleData>
+		<SimpleData name="Teléfono">(0291) 484-6976</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_cerri@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.3929758584907,-38.7220257013845,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN INGENIERO WHITE</SimpleData>
+		<SimpleData name="Dirección">San Martín 3466</SimpleData>
+		<SimpleData name="Partido">Bahía Blanca</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_ingwhite@ioma.gba.gov.ar / Para afiliaciones: delegwhite.ioma@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.2679722222222,-38.7813611111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN BALCARCE</SimpleData>
+		<SimpleData name="Dirección">Calle 16 e/ 17 y 19 691</SimpleData>
+		<SimpleData name="Partido">Balcarce</SimpleData>
+		<SimpleData name="Teléfono">(02266) 424058 - (02266) 422553</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_balcarce@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.2585,-37.8470277777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN BARADERO</SimpleData>
+		<SimpleData name="Dirección">San Martín 1088</SimpleData>
+		<SimpleData name="Partido">Baradero</SimpleData>
+		<SimpleData name="Teléfono">(03329) 482960</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_baradero@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.5034444444444,-33.8079722222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN VILLA CACIQUE</SimpleData>
+		<SimpleData name="Dirección">25 DE MAYO esq. SANTA FE. TEMINAL DE OMNIBUS</SimpleData>
+		<SimpleData name="Partido">Benito Juárez</SimpleData>
+		<SimpleData name="Teléfono">(02292) 498418</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_barker@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.398104,-37.670982,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN BENITO JUAREZ</SimpleData>
+		<SimpleData name="Dirección">San Martin 35</SimpleData>
+		<SimpleData name="Partido">Benito Juárez</SimpleData>
+		<SimpleData name="Teléfono">(02292) 453885</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_benitojuarez@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.805587,-37.674124,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN BERAZATEGUI</SimpleData>
+		<SimpleData name="Dirección">Calle 147 e/13 y 14 1343</SimpleData>
+		<SimpleData name="Partido">Berazategui</SimpleData>
+		<SimpleData name="Teléfono">(011) 42266950</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_berazategui@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.2110569,-34.7619496,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN BERISSO</SimpleData>
+		<SimpleData name="Dirección">Calle 9 esq. 166</SimpleData>
+		<SimpleData name="Partido">Berisso</SimpleData>
+		<SimpleData name="Teléfono">(0221) 4646140</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_berisso@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.8859296,-34.8686242,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN BOLIVAR</SimpleData>
+		<SimpleData name="Dirección">Alsina 488</SimpleData>
+		<SimpleData name="Partido">Bolívar</SimpleData>
+		<SimpleData name="Teléfono">(02314) 428074</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_bolivar@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.111051,-36.231429,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN BRAGADO</SimpleData>
+		<SimpleData name="Dirección">Conesa 34</SimpleData>
+		<SimpleData name="Partido">Bragado</SimpleData>
+		<SimpleData name="Teléfono">(02342) 422390</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">delegbragado@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.4933055555556,-35.1158333333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN BRANDSEN</SimpleData>
+		<SimpleData name="Dirección">Saenz Peña 1342</SimpleData>
+		<SimpleData name="Partido">Brandsen</SimpleData>
+		<SimpleData name="Teléfono">(02223) 444109</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_brandsen@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.2347777777778,-35.1739166666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CAMPANA</SimpleData>
+		<SimpleData name="Dirección">Belgrano 36</SimpleData>
+		<SimpleData name="Partido">Campana</SimpleData>
+		<SimpleData name="Teléfono">(03489) 422867</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-campana@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.9572728757366,-34.1573202419979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CAÑUELAS</SimpleData>
+		<SimpleData name="Dirección">Rivadavia esq Olavarria 1495</SimpleData>
+		<SimpleData name="Partido">Cañuelas</SimpleData>
+		<SimpleData name="Teléfono">(02226) 430270</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_canuelas@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.766097280545,-35.0487383480748,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CAPITAN SARMIENTO</SimpleData>
+		<SimpleData name="Dirección">Vte. Lopez (C. Civico) 746</SimpleData>
+		<SimpleData name="Partido">Capitán Sarmiento</SimpleData>
+		<SimpleData name="Teléfono">(02478) 481008</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_capitansarmiento@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.794,-34.1716111111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CARLOS CASARES</SimpleData>
+		<SimpleData name="Dirección">Av. Antonio Maya 261</SimpleData>
+		<SimpleData name="Partido">Carlos Casares</SimpleData>
+		<SimpleData name="Teléfono">(02395) 450420</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_carloscasares@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.361286781714,-35.6225570782374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TRES ALGARROBOS</SimpleData>
+		<SimpleData name="Dirección">Segundo Migues 268</SimpleData>
+		<SimpleData name="Partido">Carlos Tejedor</SimpleData>
+		<SimpleData name="Teléfono">(03388) 492222</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_3algarrobos@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.7788624,-35.1926674,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CARLOS TEJEDOR</SimpleData>
+		<SimpleData name="Dirección">E. y San Garre 343</SimpleData>
+		<SimpleData name="Partido">Carlos Tejedor</SimpleData>
+		<SimpleData name="Teléfono">(02357) 421070</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_carlostejedor@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.4143176817226,-35.3897139295197,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CARMEN DE ARECO</SimpleData>
+		<SimpleData name="Dirección">Belgrano 710</SimpleData>
+		<SimpleData name="Partido">Carmen de Areco</SimpleData>
+		<SimpleData name="Teléfono">(02273) 442927</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_carmendeareco@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.8249722222222,-34.3769444444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CASTELLI</SimpleData>
+		<SimpleData name="Dirección">SARMIENTO 46</SimpleData>
+		<SimpleData name="Partido">Castelli</SimpleData>
+		<SimpleData name="Teléfono">(02245) 480964</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_castelli@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.8061164,-36.0916777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CHACABUCO</SimpleData>
+		<SimpleData name="Dirección">Remedios de Esc. 81</SimpleData>
+		<SimpleData name="Partido">Chacabuco</SimpleData>
+		<SimpleData name="Teléfono">(02352) 430406 - (02352) 431741</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_chacabuco@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.4728611111111,-34.6386666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN RAWSON</SimpleData>
+		<SimpleData name="Dirección">Sanguiani (municipal) s/n</SimpleData>
+		<SimpleData name="Partido">Chacabuco</SimpleData>
+		<SimpleData name="Teléfono">(02352) 491509</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_rawson@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.0658333333333,-34.6049722222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CHASCOMUS</SimpleData>
+		<SimpleData name="Dirección">Bolivar y Dorrego ( C. Civico)</SimpleData>
+		<SimpleData name="Partido">Chascomús</SimpleData>
+		<SimpleData name="Teléfono">(02241) 424205</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_chacomus@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.0188600901784,-35.5736503016049,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MOQUEHUA</SimpleData>
+		<SimpleData name="Dirección">Villarino 319</SimpleData>
+		<SimpleData name="Partido">Chivilcoy</SimpleData>
+		<SimpleData name="Teléfono">(02346) 491484</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_moquehua@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.7718048,-35.0932262,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CHIVILCOY</SimpleData>
+		<SimpleData name="Dirección">Av. 3 de Febrero esq Biedma 392</SimpleData>
+		<SimpleData name="Partido">Chivilcoy</SimpleData>
+		<SimpleData name="Teléfono">(02346) 433922</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">delegchivilcoy@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.03275,-34.8965,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN COLON</SimpleData>
+		<SimpleData name="Dirección">Calle 21 n 665</SimpleData>
+		<SimpleData name="Partido">Colón</SimpleData>
+		<SimpleData name="Teléfono">(02473) 430182</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_colon@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.098273597345,-33.8917559708091,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN PUNTA ALTA</SimpleData>
+		<SimpleData name="Dirección">C. Buchardo 516</SimpleData>
+		<SimpleData name="Partido">Coronel de Marina Leonardo Rosales</SimpleData>
+		<SimpleData name="Teléfono">(02932) 430104</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-cnelrosales@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.0716889757203,-38.8790140278082,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CORONEL DORREGO</SimpleData>
+		<SimpleData name="Dirección">Av. Fuertes 674</SimpleData>
+		<SimpleData name="Partido">Coronel Dorrego</SimpleData>
+		<SimpleData name="Teléfono">(02921) 452981</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_dorrego@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.2881666666667,-38.7192222222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ORIENTE</SimpleData>
+		<SimpleData name="Dirección">Av. Sta. María 658</SimpleData>
+		<SimpleData name="Partido">Coronel Dorrego</SimpleData>
+		<SimpleData name="Teléfono">(02983) 495032</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_oriente@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.6106944444444,-38.7424166666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CORONEL PRINGLES</SimpleData>
+		<SimpleData name="Dirección">Pellegrini y alem S/n</SimpleData>
+		<SimpleData name="Partido">Coronel Pringles</SimpleData>
+		<SimpleData name="Teléfono">(02922) 465373</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_pringles@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.35125,-37.9856666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN HUANGUELEN</SimpleData>
+		<SimpleData name="Dirección">Av. Antártida Argentina 456</SimpleData>
+		<SimpleData name="Partido">Coronel Suárez</SimpleData>
+		<SimpleData name="Teléfono">(02933) 432980</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_huanguelen@ioma.gba.gov.ar / huanguelen.ioma@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.9332223414442,-37.0572066821443,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CORONEL SUAREZ</SimpleData>
+		<SimpleData name="Dirección">Av. Hipólito Yrigoyen 805</SimpleData>
+		<SimpleData name="Partido">Coronel Suárez</SimpleData>
+		<SimpleData name="Teléfono">(02926) 43-1758 | 42-4884</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">delegsuarez@ioma.gba.gov.ar o iomadelegacionsuarez@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.934,-37.4519444444445,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN DAIREAUX</SimpleData>
+		<SimpleData name="Dirección">Urquiza 182</SimpleData>
+		<SimpleData name="Partido">Daireaux</SimpleData>
+		<SimpleData name="Teléfono">(02316) 453294</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_daireux@ioma.gba.gov.ar deleg.daireaux@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.7445277777778,-36.5990277777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN DOLORES</SimpleData>
+		<SimpleData name="Dirección">Aristobulo del Valle 132</SimpleData>
+		<SimpleData name="Partido">Dolores</SimpleData>
+		<SimpleData name="Teléfono">(02245) 441879 -(02245) 447542 -(02245) 447740 -(02245) 444210</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_dolores@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.6771944444445,-36.3175833333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ENSENADA</SimpleData>
+		<SimpleData name="Dirección">Sidotti 367</SimpleData>
+		<SimpleData name="Partido">Ensenada</SimpleData>
+		<SimpleData name="Teléfono">(0221) 4690630</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_ensenada@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.906404,-34.859255,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ESCOBAR</SimpleData>
+		<SimpleData name="Dirección">Mitre 270</SimpleData>
+		<SimpleData name="Partido">Escobar</SimpleData>
+		<SimpleData name="Teléfono">(03488) 427466</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-escobar@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.79701,-34.353188,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ESTEBAN ECHEVERRIA</SimpleData>
+		<SimpleData name="Dirección">Mariano Acosta 39</SimpleData>
+		<SimpleData name="Partido">Esteban Echeverría</SimpleData>
+		<SimpleData name="Teléfono">(011) 42965589</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-echeverria@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.4681434,-34.8175029,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN EXALT. DE LA CRUZ</SimpleData>
+		<SimpleData name="Dirección">Mitre 434</SimpleData>
+		<SimpleData name="Partido">Exaltación de la Cruz</SimpleData>
+		<SimpleData name="Teléfono">(03488) 514170 - (02323) 491888 - (02323) 491162</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-exaltacion@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.0995087,-34.2931825,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LOS CARDALES</SimpleData>
+		<SimpleData name="Dirección">MITRE 124</SimpleData>
+		<SimpleData name="Partido">Exaltación de la Cruz</SimpleData>
+		<SimpleData name="Teléfono">(02322-492636</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-loscardales@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.9859727,-34.3287753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN EZEIZA</SimpleData>
+		<SimpleData name="Dirección">E.Mitre 142</SimpleData>
+		<SimpleData name="Partido">Ezeiza</SimpleData>
+		<SimpleData name="Teléfono">(011) 42320748</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-ezeiza@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.5182247,-34.8517194,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN FLORENCIO VARELA</SimpleData>
+		<SimpleData name="Dirección">Monteagudo L. 19 3040</SimpleData>
+		<SimpleData name="Partido">Florencio Varela</SimpleData>
+		<SimpleData name="Teléfono">(011) 42878371</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-varela@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.274404,-34.807217,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN BLAQUIER</SimpleData>
+		<SimpleData name="Dirección">SAN MARTIN e/ 5 y 7 </SimpleData>
+		<SimpleData name="Partido">Florentino Ameghino</SimpleData>
+		<SimpleData name="Teléfono">(03388) 49-6025</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.479182103502,-34.6349598204384,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN F. AMEGHINO</SimpleData>
+		<SimpleData name="Dirección">Calle 7 entre 32 y 30</SimpleData>
+		<SimpleData name="Partido">Florentino Ameghino</SimpleData>
+		<SimpleData name="Teléfono">(03388) 470477</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_ameghino@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.4659166666667,-34.8444722222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MECHONGUE</SimpleData>
+		<SimpleData name="Dirección">Calle 4 N 3 Municipalidad</SimpleData>
+		<SimpleData name="Partido">General Alvarado</SimpleData>
+		<SimpleData name="Teléfono">(02266) 493226</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_mechongue@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.2247841973496,-38.1486581136136,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MIRAMAR</SimpleData>
+		<SimpleData name="Dirección">Calle 17 571</SimpleData>
+		<SimpleData name="Partido">General Alvarado</SimpleData>
+		<SimpleData name="Teléfono">(02291) 420326</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_miramar@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.8403333333333,-38.2661111111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN OTAMENDI</SimpleData>
+		<SimpleData name="Dirección">Belgrano 313</SimpleData>
+		<SimpleData name="Partido">General Alvarado</SimpleData>
+		<SimpleData name="Teléfono">(02291) 480012</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_otamendi@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.8404444444444,-38.1156944444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL ALVEAR</SimpleData>
+		<SimpleData name="Dirección">Marmol y Pellegrini 411</SimpleData>
+		<SimpleData name="Partido">General Alvear</SimpleData>
+		<SimpleData name="Teléfono">(02344) 481704</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_alvear@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.017679,-36.024777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL ARENALES</SimpleData>
+		<SimpleData name="Dirección">Juan Jose Castelli 130</SimpleData>
+		<SimpleData name="Partido">General Arenales</SimpleData>
+		<SimpleData name="Teléfono">(02353)460549</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_arenales@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.305729356351,-34.3016017736936,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ASCENSION</SimpleData>
+		<SimpleData name="Dirección">Avenida 25 de Mayo 246</SimpleData>
+		<SimpleData name="Partido">General Arenales</SimpleData>
+		<SimpleData name="Teléfono">(02353) 49-6025 / 183</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_ascension@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.097501602993,-34.236829515168,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL BELGRANO</SimpleData>
+		<SimpleData name="Dirección">Juan E de la Fuente 902</SimpleData>
+		<SimpleData name="Partido">General Belgrano</SimpleData>
+		<SimpleData name="Teléfono">(02243) 452122</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_gralbelgrano@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.4972777777778,-35.7675277777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GRAL. GUIDO</SimpleData>
+		<SimpleData name="Dirección">Belgrano 460</SimpleData>
+		<SimpleData name="Partido">General Guido</SimpleData>
+		<SimpleData name="Teléfono">(02268) 491151</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_gralguido@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.79125,-36.6407777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LABARDEN</SimpleData>
+		<SimpleData name="Dirección">San Martin 313</SimpleData>
+		<SimpleData name="Partido">General Guido</SimpleData>
+		<SimpleData name="Teléfono">(02268) 492170</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_labarden@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.1036666666666,-36.9474444444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL MADARIAGA</SimpleData>
+		<SimpleData name="Dirección">Irigoyen 347</SimpleData>
+		<SimpleData name="Partido">General Juan Madariaga</SimpleData>
+		<SimpleData name="Teléfono">(02267) 420849</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_madariaga@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.1367222222223,-36.9957777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL LA MADRID</SimpleData>
+		<SimpleData name="Dirección">Gral Lavalle 798</SimpleData>
+		<SimpleData name="Partido">General La Madrid</SimpleData>
+		<SimpleData name="Teléfono">(02286) 420683</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_lamadrid@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.258515,-37.248942,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL LAS HERAS</SimpleData>
+		<SimpleData name="Dirección">Belgrano 66</SimpleData>
+		<SimpleData name="Partido">General Las Heras</SimpleData>
+		<SimpleData name="Teléfono">(0220) 4761190</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_lasheras@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.9444280154742,-34.9267408892174,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL LAVALLE</SimpleData>
+		<SimpleData name="Dirección">De la Serna 1192</SimpleData>
+		<SimpleData name="Partido">General Lavalle</SimpleData>
+		<SimpleData name="Teléfono">(02252) 491100</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_grallavalle@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.9435054,-36.407203,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN RANCHOS</SimpleData>
+		<SimpleData name="Dirección">Obdulio Hernández Castro 2813</SimpleData>
+		<SimpleData name="Partido">General Paz</SimpleData>
+		<SimpleData name="Teléfono">(02241) 481275</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_ranchos@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.3183249372388,-35.5157014432422,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL PINTO</SimpleData>
+		<SimpleData name="Dirección">Yrigoyen 295</SimpleData>
+		<SimpleData name="Partido">General Pinto</SimpleData>
+		<SimpleData name="Teléfono">(02356)420545</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_gralpinto@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.8891388888889,-34.7611666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN MAR DEL PLATA</SimpleData>
+		<SimpleData name="Dirección">Av. Independencia 2742</SimpleData>
+		<SimpleData name="Partido">General Pueyrredón</SimpleData>
+		<SimpleData name="Teléfono">(0223) 495-4163 / 495-4656 / 492-2539</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">regionmardelplata@ioma.gba.gov.ar / deleg_mardelplata@ioma.gba.gov.ar / deleg_mardelplata_farmacias@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.5597222222222,-38.00475,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL RODRIGUEZ</SimpleData>
+		<SimpleData name="Dirección">9 de Julio &amp; Intendente Manny</SimpleData>
+		<SimpleData name="Partido">General Rodríguez</SimpleData>
+		<SimpleData name="Teléfono">(0237) 4851333</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-gralrodriguez@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.9531604422945,-34.6095978104391,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN MARTIN</SimpleData>
+		<SimpleData name="Dirección">Yapeyú esq Juarez 1704</SimpleData>
+		<SimpleData name="Partido">General San Martín</SimpleData>
+		<SimpleData name="Teléfono">(011) 51977370 - (011) 51977418 - (011) 47135145</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_gralsanmartin@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.5322736,-34.578528,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN BAIGORRITA</SimpleData>
+		<SimpleData name="Dirección">San Martín y Mitre</SimpleData>
+		<SimpleData name="Partido">General Viamonte</SimpleData>
+		<SimpleData name="Teléfono">(02362) 49-3045</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_baigorrita@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.98896182088,-34.7471181761338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LOS TOLDOS</SimpleData>
+		<SimpleData name="Dirección">Av. San Martin y Monteagudo 108</SimpleData>
+		<SimpleData name="Partido">General Viamonte</SimpleData>
+		<SimpleData name="Teléfono">(02358) 443455</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_lostoldos@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.0325,-35.0056388888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ZAVALIA</SimpleData>
+		<SimpleData name="Dirección">Dependencia del ferrocarril</SimpleData>
+		<SimpleData name="Partido">General Viamonte</SimpleData>
+		<SimpleData name="Teléfono">(02358) 492015</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_zavalia@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.00375,-34.8945,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GENERAL VILLEGAS</SimpleData>
+		<SimpleData name="Dirección">Arenales 359</SimpleData>
+		<SimpleData name="Partido">General Villegas</SimpleData>
+		<SimpleData name="Teléfono">(03388) 422474</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_gralvillegas@ioma.gba.gov.ar / iomagvillegas@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.0174444444444,-35.0323055555556,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CASBAS</SimpleData>
+		<SimpleData name="Dirección">JUAN MANUEL DE ROSAS S/N</SimpleData>
+		<SimpleData name="Partido">Guaminí</SimpleData>
+		<SimpleData name="Teléfono">(02929) 48-0541</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_casbas@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.5064798419331,-36.7621184737692,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GARRE</SimpleData>
+		<SimpleData name="Dirección">Presidente Arturo Illia y Pres. Juan Domingo Peron</SimpleData>
+		<SimpleData name="Partido">Guaminí</SimpleData>
+		<SimpleData name="Teléfono">(02929) 49-2001</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_garre@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.6002159866591,-36.5613861283909,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GUAMINI</SimpleData>
+		<SimpleData name="Dirección">Roca y Avellaneda S/n</SimpleData>
+		<SimpleData name="Partido">Guaminí</SimpleData>
+		<SimpleData name="Teléfono">(02929) 432216</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_guamini@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.4235277777778,-37.0111388888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LAGUNA ALSINA</SimpleData>
+		<SimpleData name="Dirección">San Martin 400</SimpleData>
+		<SimpleData name="Partido">Guaminí</SimpleData>
+		<SimpleData name="Teléfono">(02929)15570907</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_lagunaalsina@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.2461944444444,-36.8086111111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN HENDERSON</SimpleData>
+		<SimpleData name="Dirección">Rivadavia 406</SimpleData>
+		<SimpleData name="Partido">Hipólito Yrigoyen</SimpleData>
+		<SimpleData name="Teléfono">(02314) 452086</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.7159464,-36.3004675,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN HURLINGHAM</SimpleData>
+		<SimpleData name="Dirección">Av. Vergara 4019</SimpleData>
+		<SimpleData name="Partido">Hurlingham</SimpleData>
+		<SimpleData name="Teléfono">(011) 46629425</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-hurlingham@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.6261939,-34.5907398,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ITUZAINGO</SimpleData>
+		<SimpleData name="Dirección">Mariano Acosta 112</SimpleData>
+		<SimpleData name="Partido">Ituzaingó</SimpleData>
+		<SimpleData name="Teléfono">(011) 46242678</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-ituzaingo@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.6665693,-34.6610597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN JOSE C. PAZ</SimpleData>
+		<SimpleData name="Dirección">Gaspar Campos Nº 4 6151</SimpleData>
+		<SimpleData name="Partido">José C. Paz</SimpleData>
+		<SimpleData name="Teléfono">(02320) 447148</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-josecpaz@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.7534856,-34.5266415,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN JUNIN</SimpleData>
+		<SimpleData name="Dirección">Quintana esq. San martín</SimpleData>
+		<SimpleData name="Partido">Junín</SimpleData>
+		<SimpleData name="Teléfono">Punto a Punto 282 - 281 | (02364) 43-5846 (conmuntador)</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_junin@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.9461944444445,-34.5869444444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MAR DE AJO</SimpleData>
+		<SimpleData name="Dirección">Av. Libertador San Martín 1395</SimpleData>
+		<SimpleData name="Partido">La Costa</SimpleData>
+		<SimpleData name="Teléfono">(02257) 421987</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_mardeajo@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.688744497537,-36.720835644037,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN CLEMENTE</SimpleData>
+		<SimpleData name="Dirección">Calle 15 390 esq 3</SimpleData>
+		<SimpleData name="Partido">La Costa</SimpleData>
+		<SimpleData name="Teléfono">(02252) 421050</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_sanclemente@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.7219444444444,-36.3604166666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SANTA TERESITA</SimpleData>
+		<SimpleData name="Dirección">Calle 3 Esq. 42 1502</SimpleData>
+		<SimpleData name="Partido">La Costa</SimpleData>
+		<SimpleData name="Teléfono">(02246) 430894</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_santateresita@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.6922222222222,-36.5452222222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GONZALEZ CATAN</SimpleData>
+		<SimpleData name="Dirección">Av. Brigadier Juan Manuel de Rosas e/ Sunchales y Dragone</SimpleData>
+		<SimpleData name="Partido">La Matanza</SimpleData>
+		<SimpleData name="Teléfono">(02202) 434706</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_gonzalezcatan@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.6294722222223,-34.7915833333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LA FERRERE</SimpleData>
+		<SimpleData name="Dirección">Piedra Buena 6489</SimpleData>
+		<SimpleData name="Partido">La Matanza</SimpleData>
+		<SimpleData name="Teléfono">(011) 46268758</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_laferrere@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.5867222222222,-34.7475555555556,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN RAMOS MEJIA</SimpleData>
+		<SimpleData name="Dirección">Av Rivadavia 13518 1° piso</SimpleData>
+		<SimpleData name="Partido">La Matanza</SimpleData>
+		<SimpleData name="Teléfono">(011) 46561654 - (011) 46565240</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_ramosmejia@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.5530555555555,-34.6399444444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN JUSTO</SimpleData>
+		<SimpleData name="Dirección">Pres. Juan Domingo Perón 3141</SimpleData>
+		<SimpleData name="Partido">La Matanza</SimpleData>
+		<SimpleData name="Teléfono">Punto a Punto 283-284 | 011-4651-6813 | 4441-1272 | 4482-0904 / 4756 | 4484-2388</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_sanjusto@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.5567863724887,-34.6759184091193,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">SEDE CENTRAL</SimpleData>
+		<SimpleData name="Dirección">46 N 886</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">429-5900 / 0810-999-4662</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.9587070554139,-34.9177404411455,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CITY BELL</SimpleData>
+		<SimpleData name="Dirección">Cam. Parque Centenario 436</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 472-2273</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_citybell@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.0562910574585,-34.8812074973838,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GONNET</SimpleData>
+		<SimpleData name="Dirección">495 y 15 bis</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 4842004</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_gonnet@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.023435,-34.87952,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN LA PLATA</SimpleData>
+		<SimpleData name="Dirección">7 e/ 41 y 42 470</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 489 - 6218 |(0221) 423-5676</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_laplata@ioma.gba.gov.ar Por medicamentos: deleg_laplata3@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.9580555555556,-34.9084444444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LA PLATA II</SimpleData>
+		<SimpleData name="Dirección">Calle 6 e/55 y 56 1137</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 4233961 - (0221) 4828642</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_laplataII@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.9440493,-34.9171753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LOS HORNOS</SimpleData>
+		<SimpleData name="Dirección">Avenida 137 1721 entre 67 y 68</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 450-4532</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_loshornos@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.9641039473466,-34.9554663681211,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN OLMOS</SimpleData>
+		<SimpleData name="Dirección">44 e/ 196 y 197</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 4962728</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_olmos@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.047455,-34.994808,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN RINGUELET</SimpleData>
+		<SimpleData name="Dirección">7 e/ 511 y 512 2081</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 4711168</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_ringuelet@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.992343,-34.882989,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MELCHOR ROMERO</SimpleData>
+		<SimpleData name="Dirección">169 e/ 518 y 519 1361</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 478-2920</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_romero@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.049324,-34.947708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TOLOSA</SimpleData>
+		<SimpleData name="Dirección">3 e/ 528 y 528 bis</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 4249559</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_tolosa@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.969062,-34.893386,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN UPCN</SimpleData>
+		<SimpleData name="Dirección">13 esq 50</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 4258925 | 4257192</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_upcn@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.9561660436629,-34.920545874202,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN VILLA ELISA</SimpleData>
+		<SimpleData name="Dirección">Cam. Centenario y Arana</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 4733192</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_villaelisa@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.079133,-34.853512,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN VILLA ELVIRA</SimpleData>
+		<SimpleData name="Dirección">5 e/ 77 y 77 bis N 2243</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 425-8677</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_villaelvira@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.9207959245045,-34.9330167637627,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SERVICIO PENITENCIARIO</SimpleData>
+		<SimpleData name="Dirección">6 entre 34 y 35 N 122</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Teléfono">(0221) 429-3800 Int.83842</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">delegacioniomaspb@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.049324,-34.947708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ISLA MARTIN GARCIA</SimpleData>
+		<SimpleData name="Dirección">ALMIRANTE BROWN S/N CENTRO CIVICO</SimpleData>
+		<SimpleData name="Partido">La Plata</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">iomaimg2021@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.2540213889215,-34.1880679280753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LANUS</SimpleData>
+		<SimpleData name="Dirección">Av. Hipólito Yrigoyen 6525</SimpleData>
+		<SimpleData name="Partido">Lanús</SimpleData>
+		<SimpleData name="Teléfono">(011) 42470370</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">delegacioniomalanus@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.390696,-34.6948614,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LAPRIDA</SimpleData>
+		<SimpleData name="Dirección">Independencia 1432</SimpleData>
+		<SimpleData name="Partido">Laprida</SimpleData>
+		<SimpleData name="Teléfono">(02285) 420471</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_laprida@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.7965390557508,-37.5452092198951,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LAS FLORES</SimpleData>
+		<SimpleData name="Dirección">Harosteguy 376</SimpleData>
+		<SimpleData name="Partido">Las Flores</SimpleData>
+		<SimpleData name="Teléfono">(02244) 453290</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_lasflores@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.09662,-36.015041,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN VEDIA</SimpleData>
+		<SimpleData name="Dirección">San Martin 380</SimpleData>
+		<SimpleData name="Partido">Leandro N. Alem</SimpleData>
+		<SimpleData name="Teléfono">(02354) 421043</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.8071944444445,-34.4399722222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LEZAMA</SimpleData>
+		<SimpleData name="Dirección">P.Peron 362</SimpleData>
+		<SimpleData name="Partido">Lezama</SimpleData>
+		<SimpleData name="Teléfono">(02242) 432874</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_lezama@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.8967777777777,-35.8743611111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LINCOLN</SimpleData>
+		<SimpleData name="Dirección">Massey 1425</SimpleData>
+		<SimpleData name="Partido">Lincoln</SimpleData>
+		<SimpleData name="Teléfono">(02355) 421199</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_lincoln@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.5325,-34.8699444444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LOBERIA</SimpleData>
+		<SimpleData name="Dirección">Av. Campos 219</SimpleData>
+		<SimpleData name="Partido">Lobería</SimpleData>
+		<SimpleData name="Teléfono">(02261) 443817</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_loberia@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.7806666666667,-38.1615555555556,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LOBOS</SimpleData>
+		<SimpleData name="Dirección">Ayacucho 140</SimpleData>
+		<SimpleData name="Partido">Lobos</SimpleData>
+		<SimpleData name="Teléfono">(02227) 422023</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleglobos@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.0951388888889,-35.1844444444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN LOMAS DE ZAMORA</SimpleData>
+		<SimpleData name="Dirección">José Ignacio Gorriti 390</SimpleData>
+		<SimpleData name="Partido">Lomas de Zamora</SimpleData>
+		<SimpleData name="Teléfono">(011) 42920793 -(011) 43920886 -(011) 43922753 -(011) 42433464 -(011) 42927447 -(011) 42924294 -(011) 42432533</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-lomas@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.4026685471586,-34.7617012075489,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN LUJAN</SimpleData>
+		<SimpleData name="Dirección">Carlos Pelegrini 424</SimpleData>
+		<SimpleData name="Partido">Luján</SimpleData>
+		<SimpleData name="Teléfono">(02323) 434170</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-lujan@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.1121471,-34.5592799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MAGDALENA</SimpleData>
+		<SimpleData name="Dirección">Rivadavia 883</SimpleData>
+		<SimpleData name="Partido">Magdalena</SimpleData>
+		<SimpleData name="Teléfono">(02221) 452666</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_magdalena@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.51854,-35.080031,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MAIPU</SimpleData>
+		<SimpleData name="Dirección">Madero 399</SimpleData>
+		<SimpleData name="Partido">Maipú</SimpleData>
+		<SimpleData name="Teléfono">(02268) 421218</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_maipu@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.884129042491,-36.8645324874126,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MALVINAS ARGENTINAS</SimpleData>
+		<SimpleData name="Dirección">Perito Moreno 2789</SimpleData>
+		<SimpleData name="Partido">Malvinas Argentinas</SimpleData>
+		<SimpleData name="Teléfono">(011) 46637935 - (011) 46600350</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-malvinas@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.6920223,-34.5020344,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CORONEL VIDAL</SimpleData>
+		<SimpleData name="Dirección">Gral. Paz 235</SimpleData>
+		<SimpleData name="Partido">Mar Chiquita</SimpleData>
+		<SimpleData name="Teléfono">(02265) 43-2004</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_coronelvidal@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.7277702715147,-37.4489007690628,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SANTA CLARA DEL MAR</SimpleData>
+		<SimpleData name="Dirección">Selva Negra 241</SimpleData>
+		<SimpleData name="Partido">Mar Chiquita</SimpleData>
+		<SimpleData name="Teléfono">(0223) 4602343</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_santaclara@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.5072648740853,-37.8421020129373,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MARCOS PAZ</SimpleData>
+		<SimpleData name="Dirección">9 de julio 65</SimpleData>
+		<SimpleData name="Partido">Marcos Paz</SimpleData>
+		<SimpleData name="Teléfono">(0220) 4772992</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_marcospaz@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.8374444444444,-34.7818888888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MERCEDES</SimpleData>
+		<SimpleData name="Dirección">calle 25 e/ 28 y 30 671</SimpleData>
+		<SimpleData name="Partido">Mercedes</SimpleData>
+		<SimpleData name="Teléfono">(02324) 427528</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">delegmercedes@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.4296944444444,-34.6496111111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MERLO</SimpleData>
+		<SimpleData name="Dirección">Av Real 231</SimpleData>
+		<SimpleData name="Partido">Merlo</SimpleData>
+		<SimpleData name="Teléfono">(0220) 4850380 - (0220) 4864566</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-merlo@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.7206219,-34.6744807,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN MIGUEL DEL MONTE</SimpleData>
+		<SimpleData name="Dirección">Italia y Rojas (C. Civico)</SimpleData>
+		<SimpleData name="Partido">Monte</SimpleData>
+		<SimpleData name="Teléfono">(02271) 421123</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_monte@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.80533,-35.442194,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MONTE HERMOSO</SimpleData>
+		<SimpleData name="Dirección">Av. Patagonia 373</SimpleData>
+		<SimpleData name="Partido">Monte Hermoso</SimpleData>
+		<SimpleData name="Teléfono">(02921) 482230</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_montehermoso@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.2891944444444,-38.9856666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MORENO</SimpleData>
+		<SimpleData name="Dirección">Ituzaingo Esq Yoli y Alcorta 871</SimpleData>
+		<SimpleData name="Partido">Moreno</SimpleData>
+		<SimpleData name="Teléfono">(0237) 4639333 - (0237) 4628145</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">delegmoreno@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.7893219,-34.6582862,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN MORON</SimpleData>
+		<SimpleData name="Dirección">Buen Viaje e/ Colon y Sucre 1436</SimpleData>
+		<SimpleData name="Partido">Morón</SimpleData>
+		<SimpleData name="Teléfono">(011) 44894193 -(011) 44890656 -(011) 44894104 -(011) 44894318 -(011) 44894110 -(011) 44890594 -(011) 44890592 -(011) 44890593 -</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-moron@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.628056,-34.6516156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN NAVARRO</SimpleData>
+		<SimpleData name="Dirección">calle 22 (C. Civico) 322</SimpleData>
+		<SimpleData name="Partido">Navarro</SimpleData>
+		<SimpleData name="Teléfono">(02272) 421003</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">delegnavarro@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.2786666666667,-35.0065277777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN NECOCHEA</SimpleData>
+		<SimpleData name="Dirección">Calle 48 N 2845 entre 57 y 59</SimpleData>
+		<SimpleData name="Partido">Necochea</SimpleData>
+		<SimpleData name="Teléfono">(02262) 422322 - (02262) 425501</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_necochea@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.7334065699621,-38.5577215363829,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN QUEQUEN</SimpleData>
+		<SimpleData name="Dirección">Calle 519 2692</SimpleData>
+		<SimpleData name="Partido">Necochea</SimpleData>
+		<SimpleData name="Teléfono">(02262) 450291</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_quequen@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.7151388888889,-38.5570833333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN OLAVARRIA</SimpleData>
+		<SimpleData name="Dirección">Independencia esq. Belgrano 2903</SimpleData>
+		<SimpleData name="Partido">Olavarría</SimpleData>
+		<SimpleData name="Teléfono">(02284)443037 - (02284) 421700 - (02284) 444262 - (02284) 426376 - (02284) 430319 - (02284) 426901</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_olavarria@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.3290277777778,-36.8869722222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SIERRA CHICA</SimpleData>
+		<SimpleData name="Dirección">Sbardolini 1805</SimpleData>
+		<SimpleData name="Partido">Olavarría</SimpleData>
+		<SimpleData name="Teléfono">(02284) 429202</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_sierrachica@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.2335555555555,-36.8449166666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN CARMEN DE PATAGONES</SimpleData>
+		<SimpleData name="Dirección">Olivera 67</SimpleData>
+		<SimpleData name="Partido">Patagones</SimpleData>
+		<SimpleData name="Teléfono">(02920) 463149</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_patagones@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.9845833333333,-40.8026388888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN STROEDER</SimpleData>
+		<SimpleData name="Dirección">Santa Fe 353</SimpleData>
+		<SimpleData name="Partido">Patagones</SimpleData>
+		<SimpleData name="Teléfono">(02920) 491010</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_stroeder@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.61825,-40.1859166666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN VILLALONGA</SimpleData>
+		<SimpleData name="Dirección">Hipolito Irigoyen (casa cul) S/n</SimpleData>
+		<SimpleData name="Partido">Patagones</SimpleData>
+		<SimpleData name="Teléfono">(02928) 492003</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_villalonga@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.6156666666667,-39.9175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MONES CAZON</SimpleData>
+		<SimpleData name="Dirección">RAMOS Mejia 370</SimpleData>
+		<SimpleData name="Partido">Pehuajó</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_monescazon@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.0066944444444,-36.2283611111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN PEHUAJO</SimpleData>
+		<SimpleData name="Dirección">Av. Juan Domingo Perón 515</SimpleData>
+		<SimpleData name="Partido">Pehuajó</SimpleData>
+		<SimpleData name="Teléfono">(02396) 470270 - (02396) 470133 - (02396) 472550</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_pehuajo@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.9035272963399,-35.8151018521849,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN PELLEGRINI</SimpleData>
+		<SimpleData name="Dirección">Mariano Moreno 122</SimpleData>
+		<SimpleData name="Partido">Pellegrini</SimpleData>
+		<SimpleData name="Teléfono">(02392) 498440</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_pellegrini@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.1646731,-36.2677101,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN PERGAMINO</SimpleData>
+		<SimpleData name="Dirección">Bv. Alsina esq. Sarratea</SimpleData>
+		<SimpleData name="Partido">Pergamino</SimpleData>
+		<SimpleData name="Teléfono">(02477) 430633 - (02477) 443882 - (02477) 443884 - (02477) 443885 - (02477) 429654 - (02477) 424145 - (02477) 424234</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_pergamino@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.5733333333333,-33.8886666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN PILA</SimpleData>
+		<SimpleData name="Dirección">calle 11 e/ 4 y 6</SimpleData>
+		<SimpleData name="Partido">Pila</SimpleData>
+		<SimpleData name="Teléfono">(02242) 498336</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_pila@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.14025,-36.0044722222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN PILAR</SimpleData>
+		<SimpleData name="Dirección">Fermin Gamboa y Francisco Lauría</SimpleData>
+		<SimpleData name="Partido">Pilar</SimpleData>
+		<SimpleData name="Teléfono">(02322) 430945</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-pilar@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.9157889,-34.4606001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN PINAMAR</SimpleData>
+		<SimpleData name="Dirección">Constitución 642</SimpleData>
+		<SimpleData name="Partido">Pinamar</SimpleData>
+		<SimpleData name="Teléfono">(02254) 480450 - (02254) 402564</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_pinamar@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.8635555555555,-37.1121666666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN GERNICA</SimpleData>
+		<SimpleData name="Dirección">Ruta 210 y calle 24</SimpleData>
+		<SimpleData name="Partido">Presidente Perón</SimpleData>
+		<SimpleData name="Teléfono">(02224) 470679</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_presidenteperon@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.383596,-34.918157,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN PUAN</SimpleData>
+		<SimpleData name="Dirección">yrigoyen y V. Deortuzar S/n</SimpleData>
+		<SimpleData name="Partido">Puán</SimpleData>
+		<SimpleData name="Teléfono">(02923) 498699</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_puan@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.7702777777778,-37.5485,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN VILLA IRIS</SimpleData>
+		<SimpleData name="Dirección">25 de mayo s/n</SimpleData>
+		<SimpleData name="Partido">Puán</SimpleData>
+		<SimpleData name="Teléfono">(02923)15444534</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_villairis@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.2346388888889,-38.1695833333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN DARREGUEIRA</SimpleData>
+		<SimpleData name="Dirección">Padre Niehaus 15</SimpleData>
+		<SimpleData name="Partido">Puán</SimpleData>
+		<SimpleData name="Teléfono">(02924) 42-0287</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">iomadarregueira@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-63.162120179151,-37.6894175552512,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN PUNTA INDIO</SimpleData>
+		<SimpleData name="Dirección">Calle 30 e/20 y 21</SimpleData>
+		<SimpleData name="Partido">Punta Indio</SimpleData>
+		<SimpleData name="Teléfono">(02221) 480488</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_puntaindio@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.339234,-35.387676,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN EZPELETA</SimpleData>
+		<SimpleData name="Dirección">Honduras 5259</SimpleData>
+		<SimpleData name="Partido">Quilmes</SimpleData>
+		<SimpleData name="Teléfono">no disponible</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_ezpeleta@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.2360566879401,-34.7517628453674,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN FRANCISCO SOLANO</SimpleData>
+		<SimpleData name="Dirección">Calle 841 (e/ 897 y 898) 2506</SimpleData>
+		<SimpleData name="Partido">Quilmes</SimpleData>
+		<SimpleData name="Teléfono">(011) 42713814</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_solano@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.3140818,-34.7790382,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN RAMALLO</SimpleData>
+		<SimpleData name="Dirección">Eva Peron 659</SimpleData>
+		<SimpleData name="Partido">Ramallo</SimpleData>
+		<SimpleData name="Teléfono">(03407) 422129</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_ramallo@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.0083333333333,-33.4848055555556,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN RAUCH</SimpleData>
+		<SimpleData name="Dirección">Alberti 242</SimpleData>
+		<SimpleData name="Partido">Rauch</SimpleData>
+		<SimpleData name="Teléfono">(02297) 442152</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_rauch@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.0883796100025,-36.778951519639,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN RIVADAVIA</SimpleData>
+		<SimpleData name="Dirección">Sarmiento 359</SimpleData>
+		<SimpleData name="Partido">Rivadavia</SimpleData>
+		<SimpleData name="Teléfono">(02337) 454044</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_rivadavia@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.9732468,-35.4898214,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ROJAS</SimpleData>
+		<SimpleData name="Dirección">Eva Perón 518</SimpleData>
+		<SimpleData name="Partido">Rojas</SimpleData>
+		<SimpleData name="Teléfono">(02475) 463669</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_rojas@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.7345511426966,-34.1966379448446,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ROQUE PEREZ</SimpleData>
+		<SimpleData name="Dirección">Avellaneda 1272</SimpleData>
+		<SimpleData name="Partido">Roque Pérez</SimpleData>
+		<SimpleData name="Teléfono">(02227) 491283</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">delegroqueperez@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.3328888888889,-35.3990277777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN PIGÜE</SimpleData>
+		<SimpleData name="Dirección">Av. Casey 537</SimpleData>
+		<SimpleData name="Partido">Saavedra</SimpleData>
+		<SimpleData name="Teléfono">(02923) 472736</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_pigue@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.40275,-37.6034166666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAAVEDRA</SimpleData>
+		<SimpleData name="Dirección">San Martin 417</SimpleData>
+		<SimpleData name="Partido">Saavedra</SimpleData>
+		<SimpleData name="Teléfono">(02923) 497203</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_saavedra@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.3482984,-37.7618936,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN SALADILLO</SimpleData>
+		<SimpleData name="Dirección">Rivadavia esq. Estrada 2802</SimpleData>
+		<SimpleData name="Partido">Saladillo</SimpleData>
+		<SimpleData name="Teléfono">(02344) 451205 -(02344) 455758 -(02344) 455309 -(02344)451453 - (02344) 451665 - (02344) 450050</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">delegsaladillo@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.7762222222223,-35.6352777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SALLIQUELO</SimpleData>
+		<SimpleData name="Dirección">Rivadavia 68</SimpleData>
+		<SimpleData name="Partido">Salliqueló</SimpleData>
+		<SimpleData name="Teléfono">(02394) 480650</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_salliquelo@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.9597477,-36.7514529,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SALTO</SimpleData>
+		<SimpleData name="Dirección">Moreno (C. Civico) 346</SimpleData>
+		<SimpleData name="Partido">Salto</SimpleData>
+		<SimpleData name="Teléfono">(02474) 423904</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_salto@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.2552222222222,-34.2905277777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN ANDRES DE GILES</SimpleData>
+		<SimpleData name="Dirección">Rawson 986</SimpleData>
+		<SimpleData name="Partido">San Andrés de Giles</SimpleData>
+		<SimpleData name="Teléfono">(02325) 443207</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_sagiles@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.4435555555556,-34.4506111111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN ANTONIO DE ARECO</SimpleData>
+		<SimpleData name="Dirección">Lavalle y Alsina</SimpleData>
+		<SimpleData name="Partido">San Antonio de Areco</SimpleData>
+		<SimpleData name="Teléfono">(02326) 453468</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_sadeareco@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.4767777777778,-34.2530833333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN CAYETANO</SimpleData>
+		<SimpleData name="Dirección">BELGRANO S/N ENTRE GIRADO Y FIDERCK</SimpleData>
+		<SimpleData name="Partido">San Cayetano</SimpleData>
+		<SimpleData name="Teléfono">(02983) 470036</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_sancayetano@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.6200763645772,-38.3519096199178,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN FERNANDO</SimpleData>
+		<SimpleData name="Dirección">Sarmiento 1067</SimpleData>
+		<SimpleData name="Partido">San Fernando</SimpleData>
+		<SimpleData name="Teléfono">(011) 47467596</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-sanfernando@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.5553534375771,-34.4402913711649,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">REGIÓN SAN ISIDRO</SimpleData>
+		<SimpleData name="Dirección">Cosme Béccar 200</SimpleData>
+		<SimpleData name="Partido">San Isidro</SimpleData>
+		<SimpleData name="Teléfono">48973044 - 48973184 -48973200 -48973201 -48973190 -48973191 -48973050</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-sanisidro@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.5129242449995,-34.47207749109,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN MIGUEL</SimpleData>
+		<SimpleData name="Dirección">Concejal Tribulato 950</SimpleData>
+		<SimpleData name="Partido">San Miguel</SimpleData>
+		<SimpleData name="Teléfono">(011) 44510688 - (011) 46674585</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-sanmiguel@ioma.gba.gov.ar / Para afiliaciones: iomasanmiguel.afiliaciones@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.7113184068856,-34.5389587138683,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN NICOLAS</SimpleData>
+		<SimpleData name="Dirección">Pellegrini 533</SimpleData>
+		<SimpleData name="Partido">San Nicolás</SimpleData>
+		<SimpleData name="Teléfono">(0336) 424016</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-sannicolas@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.2228888888889,-33.3386944444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN PEDRO</SimpleData>
+		<SimpleData name="Dirección">Ituzaingo y Ayacucho s/n</SimpleData>
+		<SimpleData name="Partido">San Pedro</SimpleData>
+		<SimpleData name="Teléfono">(03329) 423777</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_sanpedro@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.6674166666667,-33.6766388888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SAN VICENTE</SimpleData>
+		<SimpleData name="Dirección">R. Obligado - Alejandro Korn 131</SimpleData>
+		<SimpleData name="Partido">San Vicente</SimpleData>
+		<SimpleData name="Teléfono">(02225) 422223</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_sanvicente@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.377737,-34.979127,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SUIPACHA</SimpleData>
+		<SimpleData name="Dirección">San Martin 275</SimpleData>
+		<SimpleData name="Partido">Suipacha</SimpleData>
+		<SimpleData name="Teléfono">(02324) 481480</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">delegsuipacha@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.6882777777778,-34.7689722222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TANDIL</SimpleData>
+		<SimpleData name="Dirección">España 950</SimpleData>
+		<SimpleData name="Partido">Tandil</SimpleData>
+		<SimpleData name="Teléfono">(0249) 425643 - (0249) 433125 - (0249) 446273</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_tandil@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.13375,-37.3208055555556,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MARIA IGNACIA VELA</SimpleData>
+		<SimpleData name="Dirección">Av. Tandil 575</SimpleData>
+		<SimpleData name="Partido">Tandil</SimpleData>
+		<SimpleData name="Teléfono">(02293) 491134</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_vela@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.5066666666667,-37.402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TAPALQUE</SimpleData>
+		<SimpleData name="Dirección">Mitre 170</SimpleData>
+		<SimpleData name="Partido">Tapalqué</SimpleData>
+		<SimpleData name="Teléfono">(02283) 420268</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_tapalque@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.0238611111111,-36.3573888888889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TIGRE</SimpleData>
+		<SimpleData name="Dirección">Montes de Oca 442</SimpleData>
+		<SimpleData name="Partido">Tigre</SimpleData>
+		<SimpleData name="Teléfono">(011) 47310679</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">delegacion.iomatigre@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.5781678,-34.4235466,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TORDILLO</SimpleData>
+		<SimpleData name="Dirección">E. Perón (ex J. Hernández) 114</SimpleData>
+		<SimpleData name="Partido">Tordillo</SimpleData>
+		<SimpleData name="Teléfono">(02245) 492098</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_tordillo@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.324263439143,-36.5204132813849,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN SIERRA DE LA VENTANA</SimpleData>
+		<SimpleData name="Dirección">Roca 185</SimpleData>
+		<SimpleData name="Partido">Tornquist</SimpleData>
+		<SimpleData name="Teléfono">(0291)4915670</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_sierradelaventana@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-61.7955277777778,-38.1392222222222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TORNQUIST</SimpleData>
+		<SimpleData name="Dirección">Sarmiento 99</SimpleData>
+		<SimpleData name="Partido">Tornquist</SimpleData>
+		<SimpleData name="Teléfono">(0291) 4941303</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_tornquist@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.2218333333333,-38.1,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN 30 DE AGOSTO</SimpleData>
+		<SimpleData name="Dirección">Saenz Peña 246</SimpleData>
+		<SimpleData name="Partido">Trenque Lauquen</SimpleData>
+		<SimpleData name="Teléfono">(02392) 471732</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_30deagosto@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.5472222222222,-36.2809166666667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TRENQUE LAUQUEN</SimpleData>
+		<SimpleData name="Dirección">Oro 90</SimpleData>
+		<SimpleData name="Partido">Trenque Lauquen</SimpleData>
+		<SimpleData name="Teléfono">(02392) 424405</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_trenquelauquen@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.7328801751246,-35.9742451593086,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ORENSE</SimpleData>
+		<SimpleData name="Dirección">Av. 9 de julio 56</SimpleData>
+		<SimpleData name="Partido">Tres Arroyos</SimpleData>
+		<SimpleData name="Teléfono">(2982) 42-0500</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_orense@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.7831388888889,-38.691,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TRES ARROYOS</SimpleData>
+		<SimpleData name="Dirección">Calle 1810 271</SimpleData>
+		<SimpleData name="Partido">Tres Arroyos</SimpleData>
+		<SimpleData name="Teléfono">(02983) 430388</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg-3arroyos@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.2662222222222,-38.3722777777778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN COPETONAS</SimpleData>
+		<SimpleData name="Dirección">Av SAN MARTIN Y P. ARAMBURU</SimpleData>
+		<SimpleData name="Partido">Tres Arroyos</SimpleData>
+		<SimpleData name="Teléfono">(02983) 49-7039</SimpleData>
+		<SimpleData name="Horario">7 hs. a 13 hs.</SimpleData>
+		<SimpleData name="Contacto">iomacopetonas@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-60.4518138595502,-38.721799259018,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TRES DE FEBRERO</SimpleData>
+		<SimpleData name="Dirección">Fischetti 4660</SimpleData>
+		<SimpleData name="Partido">Tres de Febrero</SimpleData>
+		<SimpleData name="Teléfono">(011) 4759-5655 | (011) 4716-0649</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_3defebrero@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.5610525678475,-34.6004516688721,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN TRES LOMAS</SimpleData>
+		<SimpleData name="Dirección">Juan B Alberdi 555</SimpleData>
+		<SimpleData name="Partido">Tres Lomas</SimpleData>
+		<SimpleData name="Teléfono">(02394) 420388</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_treslomas@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.861770751429,-36.4573820129784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN VICENTE LOPEZ</SimpleData>
+		<SimpleData name="Dirección">Colombia 284</SimpleData>
+		<SimpleData name="Partido">Vicente López</SimpleData>
+		<SimpleData name="Teléfono">(011) 47910425</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_vicentelopez@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.5011468837649,-34.5468155758947,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN VILLA GESELL</SimpleData>
+		<SimpleData name="Dirección">Paseo 115 y Av nº 3 1476</SimpleData>
+		<SimpleData name="Partido">Villa Gesell</SimpleData>
+		<SimpleData name="Teléfono">(02255) 464878</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_villagesell@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.9663611111111,-37.2530833333333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN MAYOR BURATOVICH</SimpleData>
+		<SimpleData name="Dirección">Julio Coute 1160</SimpleData>
+		<SimpleData name="Partido">Villarino</SimpleData>
+		<SimpleData name="Teléfono">(0291) 4917201</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_buratovich@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.6152222222222,-39.2584444444444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN VILLARINO-MEDANOS</SimpleData>
+		<SimpleData name="Dirección">Bustamante 250</SimpleData>
+		<SimpleData name="Partido">Villarino</SimpleData>
+		<SimpleData name="Teléfono">(02927) 432585</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_villarino@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.6961111111111,-38.8273611111111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN PEDRO LURO</SimpleData>
+		<SimpleData name="Dirección">Calle 1 N 1026</SimpleData>
+		<SimpleData name="Partido">Villarino</SimpleData>
+		<SimpleData name="Teléfono">(02928) 420149</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">pedroluro.ioma@gmail.com</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-62.6853512299115,-39.5055712413178,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#oficinas_de_atencion_ioma__1_">
+		<SimpleData name="Dependenci">Oficina de Atención IOMA</SimpleData>
+		<SimpleData name="Organismo">IOMA</SimpleData>
+		<SimpleData name="Nombre">DELEGACIÓN ZARATE</SimpleData>
+		<SimpleData name="Dirección">19 de Marzo 147</SimpleData>
+		<SimpleData name="Partido">Zárate</SimpleData>
+		<SimpleData name="Teléfono">(03487) 421595</SimpleData>
+		<SimpleData name="Horario">8 hs. a 14 hs.</SimpleData>
+		<SimpleData name="Contacto">deleg_zarate@ioma.gba.gov.ar</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-59.0233174583695,-34.0963457812019,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

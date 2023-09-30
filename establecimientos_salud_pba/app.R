@@ -21,15 +21,15 @@ library(sf)
 
 establecimientos<- read.csv("https://catalogo.datos.gba.gob.ar/dataset/91743f68-bc82-4475-baca-7d5d6908eee8/resource/c2d51824-c61d-4374-a014-cca5b76b082a/download/establecimientos-salud-publicos.csv", sep = ";") 
 rendimientos <- read.csv("https://catalogo.datos.gba.gob.ar/dataset/219d6b32-2e34-40cb-913d-b05c47cab75f/resource/8c3130cb-61ad-4014-b829-503b214ba3c0/download/rendimientos-hospitalarios_2005-2022.csv")
-mapa_partidos_pba <- read_sf("G:/Mi unidad/MGAIE/18.Visualizacion salud/mgaie_salud/establecimientos_salud_pba/fuentes/departamento/departamento.shp") 
+mapa_partidos_pba <- read_sf("fuentes/departamento/departamento.shp") 
 # tabla trabajada previamente fuente INDEC
-poblacion <- read.csv("G:/Mi unidad/MGAIE/18.Visualizacion salud/mgaie_salud/establecimientos_salud_pba/fuentes/proy_1025_depto_buenos_aires.csv",sep = ";", encoding = "latin1")
+poblacion <- read.csv("fuentes/proy_1025_depto_buenos_aires.csv",sep = ";", encoding = "latin1")
 
 
 # ETL ---------------------------------------------------------------------
 
 # seleccionar y renombrar tablas establecimiento
-establecimientos <- establecimientos |> 
+establecimientos <- establecimientos %>% 
   select(establecimiento_id = cpd,
          establ_nombre_original = nor,
          establ_nombre_geo = nam,
@@ -45,70 +45,70 @@ establecimientos <- establecimientos |>
          establ_mail = mai,
          establ_tipo_financiamiento = tes,
          establ_categoria = cat,
-         establ_domicilio = dom) |> 
+         establ_domicilio = dom) %>% 
   mutate(establecimiento_id = as.character(establecimiento_id))
 
 
 
 
 # Tydeo de rendimientos
-rendimientos <- rendimientos |> 
+rendimientos <- rendimientos %>% 
   rename(partido_nombre = municipio_nombre,
-         partido_id = municipio_id)|> 
+         partido_id = municipio_id)%>% 
   mutate(anio = as.character(anio),
          establecimiento_id = as.character(establecimiento_id), 
-         partido_id = sub('.', '', partido_id)) |> 
+         partido_id = sub('.', '', partido_id)) %>% 
 # Nos quedamos con el rendimientos posteriores al 2010 de los establecimientos de los cuales tenemos su ubicación en la tabla establecimientos
-  filter(!is.na(establecimiento_id %in% establecimientos$establecimiento_id) ) |> # eliminar establecimientos sin georreferencia
+  filter(!is.na(establecimiento_id %in% establecimientos$establecimiento_id) ) %>% # eliminar establecimientos sin georreferencia
   filter((as.numeric(anio) >2017))  # 2018 en adelante
 
 
 # Agregar establ_tipo_financiamiento a la tabla de rendimientos
 
-establ_tipo_financiamiento <- establecimientos |> select(establecimiento_id, establ_tipo_financiamiento)
+establ_tipo_financiamiento <- establecimientos %>% select(establecimiento_id, establ_tipo_financiamiento)
 
-rendimientos <- rendimientos |> left_join(establ_tipo_financiamiento, by = "establecimiento_id" )
+rendimientos <- rendimientos %>% left_join(establ_tipo_financiamiento, by = "establecimiento_id" )
 
 rm(establ_tipo_financiamiento)
 
 # Tidear proyecciones de población y pegarle las variables de filtro
-poblacion <- poblacion |> 
+poblacion <- poblacion %>% 
   pivot_longer(cols = -c(1:3),
-               names_to = ("anio")) |> 
-  mutate(anio= as.numeric((str_remove(anio,"X")))) |> 
-  filter(anio >2017) |> # 2018 en adelante
-  mutate(anio = as.character(anio)) |> 
+               names_to = ("anio")) %>% 
+  mutate(anio= as.numeric((str_remove(anio,"X")))) %>% 
+  filter(anio >2017) %>% # 2018 en adelante
+  mutate(anio = as.character(anio)) %>% 
   rename(partido_nombre = partido_label,
          poblacion = value)
 
 
 # Armar una tabla con las regiones partidos y cantidad de establecimientos
-establecimientos_por_partido_region <- rendimientos |> 
-  group_by(region_sanitaria,partido_id,partido_nombre) |> 
+establecimientos_por_partido_region <- rendimientos %>% 
+  group_by(region_sanitaria,partido_id,partido_nombre) %>% 
   summarise(region_sanitaria = region_sanitaria,
             partido_id = partido_id,
             partido_nombre = partido_nombre,
-            establecimientos_partido_suma = sum(n_distinct(establecimiento_id))) |> 
-  distinct(partido_id,.keep_all = T)  |> 
+            establecimientos_partido_suma = sum(n_distinct(establecimiento_id))) %>% 
+  distinct(partido_id,.keep_all = T)  %>% 
   ungroup()
   
 
-poblacion <- poblacion |> 
-  left_join(establecimientos_por_partido_region, by =  "partido_nombre") |> 
-  relocate(partido_id, .after =partido_nombre ) |> 
+poblacion <- poblacion %>% 
+  left_join(establecimientos_por_partido_region, by =  "partido_nombre") %>% 
+  relocate(partido_id, .after =partido_nombre ) %>% 
   filter(!(is.na(partido_id)))
 
 
 # Tydeo de mapa_partidos_pba
-mapa_partidos_pba <- mapa_partidos_pba |> 
+mapa_partidos_pba <- mapa_partidos_pba %>% 
   mutate(provincia = substr(as.character(in1), 1, 2), #Obtener segmento cod. prov
          partido_id = substring(as.character(in1), 3) #Obtener segmento cod. partido
-         ) |> 
+         ) %>% 
   filter(provincia == "06") # nos quedamos con Buenos Aires
 
 
 # Pegamos las regiones en el mapa de partidos
-mapa_partidos_pba <- mapa_partidos_pba |> 
+mapa_partidos_pba <- mapa_partidos_pba %>% 
   left_join(establecimientos_por_partido_region, by = "partido_id")
 
 # Construimos las geometrías de las 12 regiones a partir de los partidos que las componen
@@ -118,7 +118,7 @@ geometrias_region_sanitaria <- mapa_partidos_pba %>%
   summarize(
     geometry = st_union(geometry),
     region_sanitaria = region_sanitaria,
-    establecimientos_partido_suma = establecimientos_partido_suma) |> # Agregar la población total
+    establecimientos_partido_suma = establecimientos_partido_suma) %>% # Agregar la población total
   distinct(geometry, .keep_all = TRUE)
 
 geometrias_region_sanitaria$establecimientos_partido_suma <- NULL
@@ -153,30 +153,30 @@ getColor <- function(establecimientos_filtrados) {
 
 # # Dentro del reactive
 # 
-# datos_rendimiento <- rendimientos |> 
-#   filter(anio == "2018") |> 
-#   filter(region_sanitaria %in% c("I","II")) |> 
+# datos_rendimiento <- rendimientos %>% 
+#   filter(anio == "2018") %>% 
+#   filter(region_sanitaria %in% c("I","II")) %>% 
 #   filter(establ_tipo_financiamiento %in% c("Municipal", "Provincial"))
 # 
-# datos_poblacion <- poblacion |> 
-#   filter(anio == "2018") |> 
-#   filter(region_sanitaria %in% c("I","II")) |> 
-#   group_by(partido_nombre, sexo_label) |> 
-#   summarise(poblacion = sum(poblacion)) |> 
+# datos_poblacion <- poblacion %>% 
+#   filter(anio == "2018") %>% 
+#   filter(region_sanitaria %in% c("I","II")) %>% 
+#   group_by(partido_nombre, sexo_label) %>% 
+#   summarise(poblacion = sum(poblacion)) %>% 
 #   pivot_wider(names_from = "sexo_label",
-#               values_from = "poblacion") |> 
+#               values_from = "poblacion") %>% 
 #   as.data.frame()
 # 
 # # output tabla_resumen
-# tabla_resumen <- datos_rendimiento |>
-#   group_by(partido_nombre) |>
+# tabla_resumen <- datos_rendimiento %>%
+#   group_by(partido_nombre) %>%
 #   summarise(establecimientos = n_distinct(establecimiento_id),
 #             cons_medicas_media = round(mean(consultas_medicas,na.rm = TRUE)),
 #             camas_disp_media = round(mean(promedio_camas_disponibles,na.rm = TRUE)),
-#             pacientes_dias_media = round(mean(pacientes_dias,na.rm = TRUE))) |>
-#   left_join(datos_poblacion, by = "partido_nombre") |> 
-#   gt() |>
-#   tab_header(paste("Región Sanitaria N°")) |> # input$selectSpecie
+#             pacientes_dias_media = round(mean(pacientes_dias,na.rm = TRUE))) %>%
+#   left_join(datos_poblacion, by = "partido_nombre") %>% 
+#   gt() %>%
+#   tab_header(paste("Región Sanitaria N°")) %>% # input$selectSpecie
 #   cols_label(partido_nombre = "Partido",
 #              establecimientos = "Establecimientos",
 #              cons_medicas_media = "Consultas médicas promedio",
@@ -196,7 +196,7 @@ getColor <- function(establecimientos_filtrados) {
 
 # # Dentro del reactive ponemos
 # 
-# establecimientos_filtrados <- establecimientos |>
+# establecimientos_filtrados <- establecimientos %>%
 #   filter(region_sanitaria %in% c("I","II"))
 # 
 # geometrias_filtradas <- geometrias_region_sanitaria %>%
@@ -290,11 +290,13 @@ ui <- fluidPage(
     selectizeInput(inputId = "select_region", 
                    label = "Seleccione la regiones sanitarias:",
                    choices = unique(rendimientos$region_sanitaria),
-                   multiple = TRUE),
+                   multiple = TRUE,
+                   selected = unique(rendimientos$region_sanitaria)),
     selectizeInput(inputId = "select_financiamiento", 
                    label = "Seleccione el tipos de financiamiento:",
                    choices = unique(rendimientos$establ_tipo_financiamiento),
-                   multiple = TRUE)
+                   multiple = TRUE,
+                   selected = unique(rendimientos$establ_tipo_financiamiento))
   ),
   mainPanel(
     fluidRow(
@@ -310,24 +312,23 @@ server <- function(input, output) {
   # Filtrar los datos según las selecciones del usuario
   
   datos_rendimiento_filtrados <- reactive({
-  
   # Primer insumo rendimientos  
-    datos_rendimiento <- rendimientos   |> 
-      filter(anio == input$select_anio)|>
-      filter(region_sanitaria %in% input$select_region)|>
+    datos_rendimiento <- rendimientos   %>% 
+      filter(anio == input$select_anio)%>%
+      filter(region_sanitaria %in% input$select_region)%>%
       filter(establ_tipo_financiamiento %in% input$select_financiamiento)
-    return(datos_rendimiento_filtrados)
+    return(datos_rendimiento) # SIEMPRE EN EL RETURN VA EL NOMBRE DE LA VARIABLE QUE QUERES MOSTRAR, NO EL NOMBRE DEL REACTIVE
   })
   
   datos_poblacion_filtrados <- reactive({
     
-      datos_poblacion <- poblacion |> 
-      filter(anio == input$select_anio)|>
-      filter(region_sanitaria %in% input$select_region)|>
-      group_by(partido_nombre, sexo_label) |> 
-      summarise(poblacion = sum(value)) |> 
+      datos_poblacion <- poblacion %>% 
+      filter(anio == input$select_anio)%>%
+      filter(region_sanitaria %in% input$select_region)%>%
+      group_by(partido_nombre, sexo_label) %>% 
+      summarise(poblacion = sum(poblacion)) %>% # ACA ESTABA MAL EN NOMBRE DE LA COLUMNA QUE SUMAS 
       pivot_wider(names_from = "sexo_label",
-                  values_from = "poblacion") |> 
+                  values_from = "poblacion") %>% 
       as.data.frame()
     return(datos_poblacion)
   
@@ -335,40 +336,51 @@ server <- function(input, output) {
   
   # Crear la tabla resumen
   output$tabla_resumen <- render_gt({
-    tabla_resumen <- datos_rendimiento_filtrados %>%
+    
+    
+    datos_rend = datos_rendimiento_filtrados() # ASIGNAS EL REACTIVE A UNA VARIABLE PARA FACILITAR EL PROCESAMIENTO POSTERIOR (SIEMPRE EL REACTIVE SE LLAMA COMO A UNA FUNCION SIN PARAMETROS: )
+    datos_pob = datos_poblacion_filtrados() # ASIGNAS EL REACTIVE A UNA VARIABLE PARA FACILITAR EL PROCESAMIENTO POSTERIOR
+    
+    browser()
+    tabla_resumen <- datos_rend  %>%
       group_by(partido_nombre) %>%
       summarise(
         consultas_medicas_promedio = round(mean(consultas_medicas, na.rm = TRUE)),
         camas_disponibles_promedio = round(mean(promedio_camas_disponibles, na.rm = TRUE)),
         pacientes_dias_media = round(mean(pacientes_dias, na.rm = TRUE))
       ) %>%
-      left_join(datos_poblacion_filtrados, by = "partido_nombre") %>%
+      left_join(datos_pob, by = "partido_nombre") %>%
       gt() %>%
       tab_header(paste("Región Sanitaria N°"), input$select_financiamiento) %>%
       cols_label(partido_nombre = "Partido",
                  consultas_medicas_promedio = "Consultas médicas promedio",
                  camas_disponibles_promedio = "Camas disponibles promedio",
                  pacientes_dias_media = "Pacientes promedio por día",
-                 value = "Población") 
+                 `Ambos sexos` = "Población") # ACA CAMBIE VALUE POR AMBOS SEXOS 
     return(tabla_resumen)
   })
   
   # Input reactivo para mapa
   
-  establecimientos_filtrados <- establecimientos |>
-    filter(region_sanitaria %in% input$select_region)|>
+  establecimientos_filtrados <- reactive({
+    establecimientos %>%
+    filter(region_sanitaria %in% input$select_region)
+    })
   
-  geometrias_filtradas <- geometrias_region_sanitaria %>%
-    filter(region_sanitaria %in% input$select_region)|>
+  geometrias_filtradas <- reactive({
+    geometrias_region_sanitaria %>%
+      filter(region_sanitaria %in% input$select_region)
+  })  
   
   
-  etiqueta <- sprintf(
-    "<strong>%s</strong><br/>%s",
-    establecimientos_filtrados$establ_nombre_original,
-    establecimientos_filtrados$establ_domicilio
-  ) %>%
-    lapply(htmltools::HTML)
-  
+  etiqueta <- reactive({
+    sprintf(
+      "<strong>%s</strong><br/>%s",
+      establecimientos_filtrados$establ_nombre_original,
+      establecimientos_filtrados$establ_domicilio
+    ) %>%
+      lapply(htmltools::HTML)
+  }) 
   
   
   icons <- awesomeIcons(
@@ -405,7 +417,9 @@ server <- function(input, output) {
           fillOpacity = 0.7,
           bringToFront = TRUE
         )
-      ) 
+      )
+    
+    return(mapa) # FALTABA EL RETURNO
     
   })
 }

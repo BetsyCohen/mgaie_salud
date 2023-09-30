@@ -341,7 +341,6 @@ server <- function(input, output) {
     datos_rend = datos_rendimiento_filtrados() # ASIGNAS EL REACTIVE A UNA VARIABLE PARA FACILITAR EL PROCESAMIENTO POSTERIOR (SIEMPRE EL REACTIVE SE LLAMA COMO A UNA FUNCION SIN PARAMETROS: )
     datos_pob = datos_poblacion_filtrados() # ASIGNAS EL REACTIVE A UNA VARIABLE PARA FACILITAR EL PROCESAMIENTO POSTERIOR
     
-    browser()
     tabla_resumen <- datos_rend  %>%
       group_by(partido_nombre) %>%
       summarise(

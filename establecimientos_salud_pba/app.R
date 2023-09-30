@@ -4,7 +4,7 @@
 # SETUP -------------------------------------------------------------------
 
 # Librerías
-setwd("establecimientos_salud_pba")
+# setwd("establecimientos_salud_pba")
 library(shiny)
 library(tidyverse)
 library(shinythemes)

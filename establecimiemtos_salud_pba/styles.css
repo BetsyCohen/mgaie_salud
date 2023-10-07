@@ -1,0 +1,141 @@
+/* Customize fonts */
+  label { 
+    font-family: 'Encode Sans Normal', Helvetica;
+    color : #37BBED;
+    font-weight: 400;
+  }
+
+  input, select { 
+    font-family: 'Encode Sans Normal', Helvetica;
+    color : black;
+    font-weight: 400;
+  }
+
+  body { 
+    font-family: 'Encode Sans Normal', Helvetica;
+    color:  'black';
+    font-weight: 200;
+    padding-top: 50px;
+  }
+
+  h1, h2, h3 { font-weight: 400; 
+    font-family: 'Encode Sans Normal', Helvetica;
+    color: #37BBED;}
+
+  h4 { font-weight: 400; 
+    font-family: 'Encode Sans Normal', Helvetica;
+       color: black;}
+
+  li {
+    color: white;
+}
+
+#controls {
+/* Appearance */
+  color: #37BBED;
+  background-color: lightgray;
+padding: 0 20px 20px 20px;
+cursor: move;
+/* Fade out while not hovering */
+  opacity: 0.65;
+zoom: 0.9;
+transition: opacity 500ms 1s;
+}
+#controls:hover {
+/* Fade in while hovering */
+  opacity: 0.95;
+transition-delay: 0;
+}
+
+/* Position and style citation */
+  #cite {
+  position: absolute;
+  color: black;
+  bottom: 10px;
+  left: 150px;
+  font-size: 12px;
+}
+
+
+/* Add an image to navbar */
+  #img-id{
+    position: fixed; 
+    right: 50px;
+    top: 10px;
+  }
+
+
+
+.navbar-nav li a:hover, .navbar-nav > .active > a {
+  background-color: #C2C2C2;
+  color: black !important;
+
+}
+
+.navbar-nav li a {
+  color: white !important;
+}
+
+
+.navbar { 
+  background-color: #37BBED;
+  padding-left: 15px;
+}
+
+.navbar1 { 
+  color: white;
+}
+
+
+/*Collapsible button*/
+.action-button {
+  font-family: 'Encode Sans Normal', Helvetica;
+  right: -20px;
+  background-color: white;  
+  color: black;
+}
+
+
+.footer {
+  font-family: 'Encode Sans Normal', Helvetica;
+  font-size: 1.5rem;
+  font-style: italic;
+  color: white;
+  background-color: #37BBED;
+  height: auto;
+  padding: 20px;
+}
+
+#footer-text {
+  font-family: 'Encode Sans Normal', Helvetica;
+  color: white;
+  font-style: normal;
+}
+
+.fa-github {
+  color: white;
+}
+
+.fa-robot {
+  color: white;
+}
+
+.col-md-1 {
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+#container-info {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.row {
+  margin-right: 0;
+  margin-left: 0;
+} 
